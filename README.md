@@ -39,8 +39,39 @@
 인종, 남녀노소 구분 없이 실제와 같은 얼굴을 만들고 타깃 영상 얼굴의 시선처리를 참조해 가상 인물의 움직임을 제어한 실감나는 영상 콘텐츠를 만들어 낼 수 있다.
 
 
+## 딥페이크의 악용
+
+![image](https://user-images.githubusercontent.com/57824945/117224737-a5a89080-ae4b-11eb-9cd4-4356e2f614e7.png)
+
+딥페이크는 기존 얼굴 합성과는 큰 차이가 있습니다.
+
+표정,주름까지 인공지능이 잡아내어 세밀한 합성이 가능합니다.
+
+기존 얼굴 합성은 그냥 이미지를 붙여놓는 행위에서 끝나지만, 딥페이크 기술을 이용하면 표정이나 행위의 변화까지도 세세하게 처리할 수 있습니다.
+
+문제는 딥페이크 기술을 포르노에 적용시켜 여자 아이돌 또는 연예인들을 합성하여 새로운 포르노를 만듭니다.
+![image](https://user-images.githubusercontent.com/57824945/117224730-a0e3dc80-ae4b-11eb-8104-bcf659fb69e3.png)
+
+![image](https://user-images.githubusercontent.com/57824945/117224759-b1945280-ae4b-11eb-971b-b870eb1c4a75.png)
+
+
+![image](https://user-images.githubusercontent.com/57824945/117224753-afca8f00-ae4b-11eb-940e-f4aefcbc2ad6.png)
+
+
+## 딥페이크 악용사례를 막을 순 없을까?
 
 
 
 
+크게 두가지 방법이 있습니다
 
+하나는 지금처럼 계속 IP정황을 추적하여 접근하는 벙법이지만 이 방법은 많은 인력들을 요구합니다.
+
+두번째 방법은 기술을 기술로 막는 방법입니다.
+바로 딥페이크 방지 클록체인입니다.
+이미지나 문서 그리고 거걸 넘어서 가짜뉴스까지 보호할 수 있는 강력한 보안 시스템을 탄생시킬 수 있습니다.
+
+![image](https://user-images.githubusercontent.com/57824945/117224779-bfe26e80-ae4b-11eb-913f-24884689119b.png)
+
+
+![image](https://user-images.githubusercontent.com/57824945/117224775-be18ab00-ae4b-11eb-9a49-c6db4752e8d9.png)
